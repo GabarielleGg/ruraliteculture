@@ -1,0 +1,57 @@
+<manifest alg="2" build="2015.2.0.352" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="http://echangeruralite_cultureetsocial.com" resolutions="1x" timestamp="1572865489165">
+  <folder name="css">
+    <file name="site_global.css" crc="3916556066"/>
+    <file name="master_b-master.css" crc="4069998450" ref="anciennes_ed:le-projet:rencontre-2:les-délégations:articles-archives:rencontre-1:rencontre-3"/>
+    <file name="anciennes_ed.css" crc="4001971339" ref="anciennes_ed"/>
+    <file name="le-projet.css" crc="408889017" ref="le-projet"/>
+    <file name="rencontre-2.css" crc="4067248793" ref="rencontre-2"/>
+    <file name="les-d_l_gations.css" crc="466980828" ref="les-délégations"/>
+    <file name="articles-archives.css" crc="3976196394" ref="articles-archives"/>
+    <file name="index.css" crc="3917683430" ref="index"/>
+    <file name="rencontre-1.css" crc="439520507" ref="rencontre-1"/>
+    <file name="rencontre-3.css" crc="430297077" ref="rencontre-3"/>
+  </folder>
+  <folder name="assets">
+    <file name="callforpapers.pdf" crc="180706207" seo="true" mt="1555224460000"/>
+    <file name="appelacommunications.pdf" crc="4127907356" seo="true" mt="1555224536000"/>
+    <file name="argumentaire_francais_cli2019.pdf" crc="4260841688" seo="true" mt="1557077088000"/>
+    <file name="argumentaire_english_cli2019.pdf" crc="3910144583" seo="true" mt="1557077065000"/>
+    <file name="appel_a_communications-201907.pdf" crc="46513017" seo="true" mt="1562195813000"/>
+    <file name="call_for_papers-201907.pdf" crc="4225724558" seo="true" mt="1562194183000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="312386352" ref="index:le-projet:rencontre-1:rencontre-2:rencontre-3:les-délégations:articles-archives:anciennes_ed"/>
+    <file name="museutils.js" crc="4155826306" ref="index:le-projet:rencontre-1:rencontre-2:rencontre-3:les-délégations:articles-archives:anciennes_ed"/>
+    <file name="whatinput.js" crc="86476730" ref="index:le-projet:rencontre-1:rencontre-2:rencontre-3:les-délégations:articles-archives:anciennes_ed"/>
+    <file name="museconfig.js" crc="483509463" ref="index:le-projet:rencontre-1:rencontre-2:rencontre-3:les-délégations:articles-archives:anciennes_ed"/>
+    <file name="jquery.musemenu.js" crc="3765356681" ref="index:le-projet:rencontre-1:rencontre-2:rencontre-3:les-délégations:articles-archives:anciennes_ed"/>
+    <file name="jquery.watch.js" crc="117772946" ref="index:le-projet:rencontre-1:rencontre-2:rencontre-3:les-délégations:articles-archives:anciennes_ed"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:le-projet:rencontre-1:rencontre-2:rencontre-3:les-délégations:articles-archives:anciennes_ed"/>
+    <file name="require.js" crc="228336483" ref="index:le-projet:rencontre-1:rencontre-2:rencontre-3:les-délégations:articles-archives:anciennes_ed"/>
+    <file name="pie.js" crc="3827607177" ref="le-projet:rencontre-1:rencontre-2:rencontre-3:les-délégations:articles-archives:anciennes_ed"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4034513494" ref="anciennes_ed"/>
+  </folder>
+  <folder name="images">
+    <file name="logoflmmodif.png" crc="4165043566" seo="true" ref="index:le-projet:rencontre-1:rencontre-2:rencontre-3:les-délégations:articles-archives:anciennes_ed"/>
+    <file name="logotelemillevaches.jpg" crc="173714525" seo="true" ref="index:le-projet:rencontre-1:rencontre-2:rencontre-3:les-délégations:articles-archives:anciennes_ed"/>
+    <file name="le_favril_blason.jpg" crc="348441091" seo="true" ref="index:le-projet:rencontre-1:rencontre-2:rencontre-3:les-délégations:articles-archives:anciennes_ed"/>
+    <file name="logochambredeau.jpg" crc="378798957" seo="true" ref="index:le-projet:rencontre-1:rencontre-2:rencontre-3:les-délégations:articles-archives:anciennes_ed"/>
+    <file name="logosaintcamillemodif.png" crc="4206393413" seo="true" ref="index:le-projet:rencontre-1:rencontre-2:rencontre-3:les-délégations:articles-archives:anciennes_ed"/>
+    <file name="logo_ptitbo.png" crc="4200070002" seo="true" ref="index:le-projet:rencontre-1:rencontre-2:rencontre-3:les-délégations:articles-archives:anciennes_ed"/>
+    <file name="ffqcd.jpg" crc="12300571" seo="true" ref="index:le-projet:rencontre-1:rencontre-2:rencontre-3:les-délégations:articles-archives:anciennes_ed"/>
+    <file name="articleflm.png" crc="3898192538" seo="true" ref="articles-archives"/>
+    <file name="cli_2014.jpg" crc="3771888678" ref="anciennes_ed"/>
+    <file name="cli_2015.jpg" crc="311562231" ref="anciennes_ed"/>
+    <file name="cli_2016.jpg" crc="3973190901" ref="anciennes_ed"/>
+    <file name="poster-cli-2017.jpg" crc="400677103" ref="anciennes_ed"/>
+    <file name="affiche_cli_2018_jeune5.jpg" crc="4089913659" seo="true" ref="anciennes_ed"/>
+  </folder>
+  <file name="index.html" crc="3898080794" seo="true" mt="1572864322726" redirect="true"/>
+  <file name="le-projet.html" crc="96321783" seo="true" mt="1572864466264" redirect="true"/>
+  <file name="rencontre-1.html" crc="159570917" seo="true" mt="1572864232006" redirect="true"/>
+  <file name="rencontre-2.html" crc="455954655" seo="true" mt="1572864232006" redirect="true"/>
+  <file name="rencontre-3.html" crc="4002865062" seo="true" mt="1572864232006" redirect="true"/>
+  <file name="les-délégations.html" crc="321697268" seo="true" mt="1572865427724" redirect="true"/>
+  <file name="articles-archives.html" crc="4161431429" seo="true" mt="1572864617627" redirect="true"/>
+  <file name="anciennes_ed.html" crc="313446405" seo="true" mt="1572864232006" redirect="true"/>
+</manifest>
